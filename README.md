@@ -13,7 +13,7 @@
 
 - 💬 Me pergunte sobre **React, Spring Boot, Java e MySQL**
 
-- 📫 Como chegar à mim **renangealves@gmail.com**
+- 📫 Como chegar até mim **renangealves@gmail.com**
 
 - ⚡ Fato divertido **Estou implementando um sistema real ainda na faculdade**
 
